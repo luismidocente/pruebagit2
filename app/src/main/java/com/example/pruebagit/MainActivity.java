@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Log.d("tag", "test 1");
+        Log.d("tag", "test 2");
     }
 
     @Override
